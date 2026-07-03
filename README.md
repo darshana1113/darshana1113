@@ -16,10 +16,8 @@
 
 I'm an Electronics & Telecommunication Engineering student passionate about
 Firmware Development, Embedded Systems, IoT, and Industrial Communication.
-
 I enjoy building firmware that bridges hardware and software using
 Embedded C and modern microcontrollers.
-
 Currently, I'm exploring CAN, CANopen, FreeRTOS, Device Drivers,
 and Bare Metal Programming through practical projects.
 
